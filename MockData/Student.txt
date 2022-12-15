@@ -1,0 +1,286 @@
+Student ID: 22121483
+Name: Ly Minh Hong
+Birthday: 7/2/2008
+Major: Vat li
+Tel 1: 0324451892
+Tel 2: 0856950956
+Email: lmh465@apple.com
+Address: 178A, duong Nguyen Hong, Phuong 5, Quan 5, Thanh pho Ho Chi Minh
+GPA: 0.09
+
+Student ID: 22102414
+Name: Vo Thanh Hong
+Birthday: 20/9/1902
+Major: Cong nghe thong tin
+Tel: 0592288622
+Email: vth183@gmail.com
+Address: 376A, duong 30 thang 4, Phuong Phu Thanh, Quan Tan Phu, Thanh pho Ho Chi Minh
+GPA: 2.24
+
+Student ID: 22106809
+Name: Le Thi Tam
+Birthday: 28/11/1934
+Major: Cong nghe thong tin
+Tel 1: 0846678675
+Tel 2: 0360336444
+Email: ltt611@apple.com
+Address: 101, duong 30 thang 4, Phuong 10, Quan 5, Thanh pho Ho Chi Minh
+GPA: 2.16
+
+Student ID: 22113202
+Name: Ly Van Tam
+Birthday: 26/4/1987
+Major: Hoa hoc
+Tel: 0785901444
+Email: lvt341@gmail.com
+Address: 579, duong Nguyen Van Linh, Phuong 3, Quan Phu Nhuan, Thanh pho Ho Chi Minh
+GPA: 0.22
+
+Student ID: 22113275
+Name: Tran Hoai Hong
+Birthday: 23/9/1935
+Major: Hoa hoc
+Tel: 0582780862
+Email: thh694@apple.com
+Address: 241B, duong 3 thang 2, Xa Binh Chanh, Quan Binh Thanh, Thanh pho Ho Chi Minh
+GPA: 0.92
+
+Student ID: 22125999
+Name: Ly Minh Nhu
+Birthday: 17/11/1921
+Major: Vat li
+Tel 1: 0856788113
+Tel 2: 0397325886
+Email: lmn610@outlook.com
+Address: 167A, duong Cong Hoa, Phuong 11, Quan 11, Thanh pho Ho Chi Minh
+GPA: 1.93
+
+Student ID: 22114904
+Name: Nguyen Thi Nhu
+Birthday: 22/8/1974
+Major: Hoa hoc
+Tel: 0364169501
+Email: ntn282@apple.com
+Address: 406B, duong Dien Bien Phu, Phuong Cau Kho, Quan 1, Thanh pho Ho Chi Minh
+GPA: 3.51
+
+Student ID: 22136705
+Name: Dinh Thi Huyen
+Birthday: 1/9/1959
+Major: Sinh hoc
+Tel 1: 0377521247
+Tel 2: 0342716637
+Email: dth964@gmail.com
+Address: 235A, duong Le Dai Hanh, Phuong 14, Quan 8, Thanh pho Ho Chi Minh
+GPA: 0.28
+
+Student ID: 22131553
+Name: Dinh Minh Huyen
+Birthday: 8/6/1999
+Major: Sinh hoc
+Tel 1: 0371271599
+Tel 2: 0766416264
+Email: dmh218@apple.com
+Address: 261B, duong Dien Bien Phu, Phuong 1, Quan Tan Binh, Thanh pho Ho Chi Minh
+GPA: 0.39
+
+Student ID: 22108335
+Name: Ly Van Son
+Birthday: 9/12/1918
+Major: Cong nghe thong tin
+Tel 1: 0824467220
+Tel 2: 0337946583
+Email: lvs500@gmail.com
+Address: 437, duong Dao Duy Tu, Phuong 6, Quan 10, Thanh pho Ho Chi Minh
+GPA: 2.90
+
+Student ID: 22113333
+Name: Dinh Thanh Nhu
+Birthday: 15/6/1926
+Major: Hoa hoc
+Tel 1: 0386643124
+Tel 2: 0821589181
+Email: dtn3@yahoo.com
+Address: 460A, duong Hong Bang, Phuong 2, Quan 5, Thanh pho Ho Chi Minh
+GPA: 0.04
+
+Student ID: 22116728
+Name: Nguyen Hoai Manh
+Birthday: 14/8/2005
+Major: Hoa hoc
+Tel: 0351376379
+Email: nhm632@outlook.com
+Address: 178B, duong Ly Thuong Kiet, Phuong 4, Quan Tan Binh, Thanh pho Ho Chi Minh
+GPA: 0.58
+
+Student ID: 22123812
+Name: Nguyen Thi Nhu
+Birthday: 11/5/1935
+Major: Vat li
+Tel: 0779670154
+Email: ntn303@yahoo.com
+Address: 282, duong Nguyen Thi Minh Khai, Phuong 14, Quan 4, Thanh pho Ho Chi Minh
+GPA: 1.73
+
+Student ID: 22112974
+Name: Ly Hoai Manh
+Birthday: 26/5/1986
+Major: Hoa hoc
+Tel 1: 0562454361
+Tel 2: 0705254702
+Email: lhm858@outlook.com
+Address: 244, duong Binh Quoi, Phuong 7, Quan Phu Nhuan, Thanh pho Ho Chi Minh
+GPA: 1.84
+
+Student ID: 22110457
+Name: Vo Minh Tam
+Birthday: 27/5/1935
+Major: Hoa hoc
+Tel 1: 0330393428
+Tel 2: 0342550963
+Email: vmt376@outlook.com
+Address: 189A, duong Nguyen Van Linh, Phuong 14, Quan Tan Binh, Thanh pho Ho Chi Minh
+GPA: 2.24
+
+Student ID: 22128990
+Name: Le Van Son
+Birthday: 10/7/1978
+Major: Vat li
+Tel 1: 0855566495
+Tel 2: 0381999230
+Email: lvs119@apple.com
+Address: 310, duong Dao Duy Tu, Xa Phong Phu, Quan Binh Thanh, Thanh pho Ho Chi Minh
+GPA: 3.17
+
+Student ID: 22106354
+Name: Vo Hoai Nhu
+Birthday: 1/10/1966
+Major: Cong nghe thong tin
+Tel: 0705218939
+Email: vhn812@apple.com
+Address: 74B, duong Phan Boi Chau, Phuong 7, Quan 8, Thanh pho Ho Chi Minh
+GPA: 3.60
+
+Student ID: 22129550
+Name: Ly Thi Tam
+Birthday: 14/12/1910
+Major: Vat li
+Tel 1: 0348124221
+Tel 2: 0382968472
+Email: ltt596@apple.com
+Address: 225, duong Dien Bien Phu, Phuong Phu Trung, Quan Tan Phu, Thanh pho Ho Chi Minh
+GPA: 1.62
+
+Student ID: 22122333
+Name: Le Hoai Nhu
+Birthday: 5/4/1979
+Major: Vat li
+Tel: 0320964434
+Email: lhn987@apple.com
+Address: 170A, duong Dien Bien Phu, Phuong 9, Quan Phu Nhuan, Thanh pho Ho Chi Minh
+GPA: 1.78
+
+Student ID: 22105025
+Name: Nguyen Mai Son
+Birthday: 26/8/1965
+Major: Cong nghe thong tin
+Tel: 0813036980
+Email: nms76@yahoo.com
+Address: 233A, duong Ly Thuong Kiet, Phuong 2, Quan 10, Thanh pho Ho Chi Minh
+GPA: 2.60
+
+Student ID: 22132908
+Name: Vo Thanh Nhu
+Birthday: 12/5/1909
+Major: Sinh hoc
+Tel 1: 0331051249
+Tel 2: 0813237787
+Email: vtn533@yahoo.com
+Address: 512B, duong Le Hong Phong, Phuong 17, Quan Phu Nhuan, Thanh pho Ho Chi Minh
+GPA: 0.19
+
+Student ID: 22137892
+Name: Dinh Thanh Nhu
+Birthday: 24/11/1936
+Major: Sinh hoc
+Tel 1: 0814673254
+Tel 2: 0587408957
+Email: dtn625@gmail.com
+Address: 326A, duong 3 thang 2, Phuong Vo Thi Sau, Quan 3, Thanh pho Ho Chi Minh
+GPA: 2.22
+
+Student ID: 22134039
+Name: Vo Minh Tam
+Birthday: 2/3/2016
+Major: Sinh hoc
+Tel: 0384450960
+Email: vmt797@yahoo.com
+Address: 25A, duong Nguyen Van Linh, Phuong 9, Quan 3, Thanh pho Ho Chi Minh
+GPA: 2.83
+
+Student ID: 22125081
+Name: Tran Thanh Tam
+Birthday: 12/3/1965
+Major: Vat li
+Tel: 0357119955
+Email: ttt474@gmail.com
+Address: 457B, duong Cach Mang Thang 8, Phuong 3, Quan 5, Thanh pho Ho Chi Minh
+GPA: 3.34
+
+Student ID: 22103766
+Name: Nguyen Van Hong
+Birthday: 4/9/1998
+Major: Cong nghe thong tin
+Tel: 0581353064
+Email: nvh646@outlook.com
+Address: 123A, duong Dao Duy Tu, Phuong 7, Quan 10, Thanh pho Ho Chi Minh
+GPA: 1.63
+
+Student ID: 22117988
+Name: Tran Van Tam
+Birthday: 20/9/1949
+Major: Hoa hoc
+Tel 1: 0831347049
+Tel 2: 0589449040
+Email: tvt473@apple.com
+Address: 410A, duong Nguyen Van Cu, Phuong 5, Quan 11, Thanh pho Ho Chi Minh
+GPA: 2.99
+
+Student ID: 22128062
+Name: Le Thi Tam
+Birthday: 8/10/1958
+Major: Vat li
+Tel: 0374721905
+Email: ltt474@apple.com
+Address: 329B, duong 3 thang 2, Xa Le Minh Xuan, Quan Binh Thanh, Thanh pho Ho Chi Minh
+GPA: 2.94
+
+Student ID: 22101049
+Name: Tran Thi Huyen
+Birthday: 19/6/2003
+Major: Cong nghe thong tin
+Tel 1: 0828637028
+Tel 2: 0389728815
+Email: tth872@yahoo.com
+Address: 485A, duong Cach Mang Thang 8, Phuong Tan Thuan Tay, Quan 7, Thanh pho Ho Chi Minh
+GPA: 2.02
+
+Student ID: 22100782
+Name: Tran Van Manh
+Birthday: 29/7/1900
+Major: Cong nghe thong tin
+Tel 1: 0842459721
+Tel 2: 0829044982
+Email: tvm944@apple.com
+Address: 502, duong Dao Duy Tu, Phuong Tan Dinh, Quan 1, Thanh pho Ho Chi Minh
+GPA: 2.69
+
+Student ID: 22132111
+Name: Nguyen Minh Manh
+Birthday: 15/9/1945
+Major: Sinh hoc
+Tel: 0701371050
+Email: nmm396@gmail.com
+Address: 476B, duong 3 thang 2, Phuong 15, Quan Phu Nhuan, Thanh pho Ho Chi Minh
+GPA: 2.47
+

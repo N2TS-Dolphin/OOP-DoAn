@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{fe7117bc-2279-4a29-ac81-6510b10ad8ce}</ProjectGuid>
-    <RootNamespace>MockData</RootNamespace>
+    <ProjectGuid>{8a99d516-6d4c-45aa-b3df-a9b581da0843}</ProjectGuid>
+    <RootNamespace>MockData2</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
@@ -128,27 +128,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="AddressGenerator.cpp" />
-    <ClCompile Include="BirthdayGenerator.cpp" />
     <ClCompile Include="EmailGenerator.cpp" />
     <ClCompile Include="FullNameGenerator.cpp" />
-    <ClCompile Include="GPAGenerator.cpp" />
-    <ClCompile Include="IntegerGenerator.cpp" />
+    <ClCompile Include="IDGenerator.cpp" />
+    <ClCompile Include="IntGenerator.cpp" />
     <ClCompile Include="main.cpp" />
-    <ClCompile Include="StudentIDGenerator.cpp" />
-    <ClCompile Include="TelGenerator.cpp" />
     <ClCompile Include="Utils.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="AddressGenerator.h" />
-    <ClInclude Include="BirthdayGenerator.h" />
     <ClInclude Include="EmailGenerator.h" />
     <ClInclude Include="FullNameGenerator.h" />
-    <ClInclude Include="GPAGenerator.h" />
-    <ClInclude Include="IntegerGenerator.h" />
-    <ClInclude Include="Major.h" />
-    <ClInclude Include="StudentIDGenerator.h" />
-    <ClInclude Include="TelGenerator.h" />
+    <ClInclude Include="IDGenerator.h" />
+    <ClInclude Include="IntGenerator.h" />
     <ClInclude Include="Utils.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
